@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 reading and cleaning the file
 '''
 
-df=pd.read_csv("netflix_titles.csv")
+df=pd.read_csv("uncleaned_netflix_data_for_visualization.csv")
 
 # print(df.info())
 # print(df.describe())
